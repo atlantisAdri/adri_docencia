@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-conocimiento/36-psicologia/361-aprendizaje/estilos-de-aprendizaje/"}
+{"dg-publish":true,"permalink":"/3-CONOCIMIENTO/36-PSICOLOGÍA/361-APRENDIZAJE/Estilos de aprendizaje/"}
 ---
 
 Se refieren a la manera en que un alumno recibe mejor la información, la asimila, memoriza y comprende. Se consideran rasgos cognitivos, afectivos y fisiológicos.

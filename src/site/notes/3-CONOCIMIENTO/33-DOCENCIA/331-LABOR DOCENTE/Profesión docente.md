@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-conocimiento/33-docencia/331-labor-docente/profesion-docente/"}
+{"dg-publish":true,"permalink":"/3-CONOCIMIENTO/33-DOCENCIA/331-LABOR DOCENTE/Profesión docente/"}
 ---
 
 Es la labor profesional que ejercen los profesores o [[3-CONOCIMIENTO/33-DOCENCIA/335-GESTIÓN DE CENTROS EDUCATIVOS/Equipo docente\|docentes]] durante el ejercicio de su profesión.
