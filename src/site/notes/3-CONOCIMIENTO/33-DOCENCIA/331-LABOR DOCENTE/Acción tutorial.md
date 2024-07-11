@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-conocimiento/33-docencia/331-labor-docente/accion-tutorial/"}
+{"dg-publish":true,"permalink":"/3-CONOCIMIENTO/33-DOCENCIA/331-LABOR DOCENTE/Acción tutorial/"}
 ---
 
 Tiene como **misión** promover la **educación personalizada e integral**.
