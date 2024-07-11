@@ -11,7 +11,7 @@
 - [[3-CONOCIMIENTO/36-PSICOLOGÍA/365-PEDAGOGÍA/Conductismo\|Conductismo]]
 - [[3-CONOCIMIENTO/36-PSICOLOGÍA/365-PEDAGOGÍA/Constructivismo\|Constructivismo]]
 - [[3-CONOCIMIENTO/33-DOCENCIA/331-LABOR DOCENTE/Atención a la diversidad\|Atención a la diversidad]]
-- Qué son las [[3-CONOCIMIENTO/33-DOCENCIA/331-LABOR DOCENTE/MEDIA/Competencias educativas\|Competencias educativas]]
+- Qué son las [[3-CONOCIMIENTO/33-DOCENCIA/331-LABOR DOCENTE/Competencias educativas\|Competencias educativas]]
 - Modelos de [[3-CONOCIMIENTO/33-DOCENCIA/331-LABOR DOCENTE/Codocencia\|Codocencia]]
 - [[3-CONOCIMIENTO/36-PSICOLOGÍA/365-PEDAGOGÍA/Zona de Desarrollo Próximo\|Zona de Desarrollo Próximo]]
 - [[3-CONOCIMIENTO/33-DOCENCIA/335-GESTIÓN DE CENTROS EDUCATIVOS/Plan de Convivencia del centro educativo (PC)\|Plan de Convivencia del centro educativo (PC)]]

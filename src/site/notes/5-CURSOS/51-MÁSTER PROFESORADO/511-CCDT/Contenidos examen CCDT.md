@@ -34,7 +34,7 @@
 ---
 **Tema 3**
 - Partes del [[3-CONOCIMIENTO/33-DOCENCIA/332-NORMATIVA/Aulas/Aula - Tecnología\|aula de tecnología]]
-- Definición de [[3-CONOCIMIENTO/33-DOCENCIA/331-LABOR DOCENTE/MEDIA/Gamificación\|Gamificación]]
+- Definición de [[3-CONOCIMIENTO/33-DOCENCIA/331-LABOR DOCENTE/Gamificación\|Gamificación]]
 - [[3-CONOCIMIENTO/33-DOCENCIA/332-NORMATIVA/Organismos e instituciones/Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado (INTEF)\|Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado (INTEF)]]
 - Objetivos de la [[3-CONOCIMIENTO/33-DOCENCIA/333-ACTIVIDADES/Programación informática\|Programación informática]] en educación
 	- Que no pretende que los alumnos sean desarrolladores informáticos
