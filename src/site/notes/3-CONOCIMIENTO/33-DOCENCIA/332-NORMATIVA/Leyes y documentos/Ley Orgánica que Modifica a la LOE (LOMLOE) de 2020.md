@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-CONOCIMIENTO/33-DOCENCIA/332-NORMATIVA/Leyes y documentos/Ley Orgánica que Modifica a la LOE (LOMLOE) de 2020/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/3-CONOCIMIENTO/33-DOCENCIA/332-NORMATIVA/Leyes y documentos/Ley Orgánica que Modifica a la LOE (LOMLOE) de 2020/"}
 ---
 
 Sustituye a la [[3-CONOCIMIENTO/33-DOCENCIA/332-NORMATIVA/Leyes y documentos/Ley Orgánica para la Mejora de la Calidad Educativa (LOMCE) de 2013\|Ley Orgánica para la Mejora de la Calidad Educativa (LOMCE) de 2013]].
