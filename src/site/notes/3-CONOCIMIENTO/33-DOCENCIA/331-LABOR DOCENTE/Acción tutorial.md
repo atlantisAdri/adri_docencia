@@ -41,7 +41,7 @@ Se lleva a cabo a través de la **[[3-CONOCIMIENTO/33-DOCENCIA/331-LABOR DOCENTE
 	- Concreta los contenidos del [[3-CONOCIMIENTO/33-DOCENCIA/335-GESTIÓN DE CENTROS EDUCATIVOS/Proyecto Educativo del Centro (PEC)\|Proyecto Educativo del Centro (PEC)]] e incluye el [[3-CONOCIMIENTO/33-DOCENCIA/335-GESTIÓN DE CENTROS EDUCATIVOS/Plan de Orientación y Acción Tutorial (POAT)\|Plan de Orientación y Acción Tutorial (POAT)]].
 	- Especifica la funciones del [[3-CONOCIMIENTO/33-DOCENCIA/335-GESTIÓN DE CENTROS EDUCATIVOS/Equipo docente\|Equipo docente]] en la Acción tutorial en el art. 92:
 		- Tutoría de los alumnos en colaboración con las [[3-CONOCIMIENTO/3B-SOCIOLOGÍA/3B2-GRUPOS SOCIALES/Familia\|familias]].
-		- [[3-CONOCIMIENTO/33-DOCENCIA/332-NORMATIVA/Orientación educativa\|Orientación educativa]], [[Orientación profesional\|Orientación profesional]] y orientación académica.
+		- [[Orientación educativa\|Orientación educativa]], [[Orientación profesional\|Orientación profesional]] y orientación académica.
 		- Atención al desarrollo psicológico de los alumnos.
 	- Da incentivos económicos y profesionales al [[3-CONOCIMIENTO/33-DOCENCIA/335-GESTIÓN DE CENTROS EDUCATIVOS/Tutor docente\|Tutor docente]].
 - [[3-CONOCIMIENTO/33-DOCENCIA/332-NORMATIVA/Leyes y documentos/Ley Orgánica para la Mejora de la Calidad Educativa (LOMCE) de 2013\|Ley Orgánica para la Mejora de la Calidad Educativa (LOMCE) de 2013]]
@@ -77,7 +77,7 @@ Se lleva a cabo a través de la **[[3-CONOCIMIENTO/33-DOCENCIA/331-LABOR DOCENTE
 	- Presentar al [[3-CONOCIMIENTO/33-DOCENCIA/335-GESTIÓN DE CENTROS EDUCATIVOS/Equipo docente\|Equipo docente]] como personas que ayudan.
 	- Tolerancia a la frustración.
 	- Crear hábitos de trabajo.
-- [[3-CONOCIMIENTO/33-DOCENCIA/332-NORMATIVA/Orientación educativa\|Orientación educativa]] y [[Orientación profesional\|Orientación profesional]].
+- [[Orientación educativa\|Orientación educativa]] y [[Orientación profesional\|Orientación profesional]].
 	- Promover el autoconocimiento de los intereses propios.
 	- Enseñar a acceder a información de las oportunidades académicas y profesionales. 
 	- Tomar conciencia de la importancia de las decisiones.
